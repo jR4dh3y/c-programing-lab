@@ -11,7 +11,7 @@ This repository contains the C programs that I did in my lab.
     
 - [Acitity 2](/Activity%202/)
     - [arithmetic opperations](/Activity%202/opperations.c)
-    - [Area & Peremiter](/Activity%202/)
+    - [Area & Peremiter](/Activity%202/area_peremeter.c)
     - [euclidean distance](/Activity%202/euclide.c)
 <!-- - [Subtraction of Two Numbers](./subtraction.c) -->
 <!-- - [Multiplication of Two Numbers](./multiplication.c) -->
