@@ -17,6 +17,14 @@ This repository contains the C programs that I did in my lab.
     1. [even odd](/Activity%203/evenodd.c)
     1. [vowel or consonant](/Activity%203/vowel.c)
     1. [area and perimiter based on user's choice](/Activity%203/menu.c)
+- [Activity 4](/Activity%204/)
+    1. [factorial](/Activity%204/factorialusingfor.c)
+    1. [fibonacci](/Activity%204/fibo.c)
+    1. [max of n numbers](/Activity%204/max_in_n.c)
+- [Activity 5](/Activity%205/)
+    1. [Amstrong number](/Activity%205/amstrong.c)
+    1. [Sum of digits](/Activity%205/sumOfDigits.c)
+    1. [is prime](/Activity%205/whileisprime.c)
 ## How to Run
 
 1. Clone this repository to your local machine.
